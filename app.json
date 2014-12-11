@@ -1,0 +1,14 @@
+{
+	"reponame": "cocos2d-js-3.1-spritesheet-sample",
+	"title": "Cocos2d-js 3.1 spritesheet sample",
+	"tooltip": "A sample of Cocos2d-js 3.1 spritesheet",
+	"description": "A 2048 game sample built using Cocos2d-js that teaches developer to use spritesheet.",
+	"articleUrl": "",
+	"keywords": ["Game", "Cocos2d"],
+	"visible": "true",
+	"highlights": ["Cocos2d", "Game"],
+	"appname": "demo.Cocos2djs3.SpritesheetSample",
+	"abbr": "Cocos2d sprite",
+	"relname": "4.0.0",
+	"apppreview": "true"
+}
