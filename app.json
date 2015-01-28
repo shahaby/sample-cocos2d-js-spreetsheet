@@ -10,5 +10,6 @@
 	"appname": "demo.Cocos2djs3.SpritesheetSample",
 	"abbr": "Cocos2d sprite",
 	"relname": "4.0.0",
-	"apppreview": "true"
+	"apppreview": "true",
+  	"projectTypeName": "com.intel.xdk.projecttype.jsapp"
 }
