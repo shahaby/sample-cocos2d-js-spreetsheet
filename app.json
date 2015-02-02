@@ -11,5 +11,5 @@
 	"abbr": "Cocos2d sprite",
 	"relname": "4.0.0",
 	"apppreview": "true",
-  	"projectTypeName": "com.intel.xdk.projecttype.webapp"
+  	"projectTypeName": "com.intel.xdk.projecttype.jsapp"
 }
