@@ -1,11 +1,11 @@
 {
   "project": {
-    "projectSettingsVersion": "1.1",
+    "projectSettingsVersion": "1.2",
     "creationData": {
       "type": "Blank Project",
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
-      "projectGuid": "dc530da9-4e36-4299-b4cc-5cbaae4e2f39",
+			"projectGuid": "00000000-0000-0000-0000-000000000000",
       "lastModifiedDate": 1417784534673,
       "creationDate": 1416213957243
     },
@@ -68,8 +68,8 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.5",
-        "crosswalkVersion_": "stable",
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
         "appDescription_": "A 2048 game sample built using Cocos2d-js that teaches developer to use spritesheet.",
         "appAuthor_": "",
@@ -95,11 +95,11 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.5",
-        "crosswalkVersion_": "stable",
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
         "appDescription_": "A 2048 game sample built using Cocos2d-js that teaches developer to use spritesheet.",
-        "appAuthor_": "",
+				"appAuthor_": "Intel XDK",
         "appVersionCode_": "1"
       },
       "iOS": {
@@ -121,8 +121,8 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.5",
-        "crosswalkVersion_": "stable",
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "0.0.1",
         "appDescription_": "A 2048 game sample built using Cocos2d-js that teaches developer to use spritesheet."
       },
@@ -145,8 +145,8 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.5",
-        "crosswalkVersion_": "stable",
+        "cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "0.0.0.1",
         "appDescription_": "A 2048 game sample built using Cocos2d-js that teaches developer to use spritesheet."
       },
@@ -164,8 +164,8 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.5",
-        "crosswalkVersion_": "stable",
+				"cordovaCLIVersion_": "?",
+        "crosswalkVersion_": "?",
         "appVersion_": "1.0.0.0"
       }
     },
