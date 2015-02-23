@@ -32,7 +32,7 @@ This sample is used to show the usage of spritesheets in Cocos2d-js engine with 
 `www/main.js` is the entrance of the game which load resources and bootstrap game scenarios.
 
 ### Game Asset Manager
-Game Asset Manager (GAM) is a tool for previewing and creating code snippets for various assets commonly used in game projects. By creating or importing a game project in XDK, you will find GAM panel on the left side of "DEVELOP" tab.
+Game Asset Manager (GAM) is a tool for previewing and creating code snippets for various assets commonly used in game projects. By creating or importing a game project in Intel XDK, you will find GAM panel on the left side of "DEVELOP" tab.
 With Game Asset Manager, you can generate code snippet to preload and render sprite with spritesheet.
 
 ### Preload and Render Sprite with Spritesheet
